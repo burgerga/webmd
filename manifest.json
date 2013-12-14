@@ -1,0 +1,13 @@
+{
+  "name": "WebMC",
+  "description": "Web Monte Carlo",
+  "version": "0.1",
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { 
+    "16": "mcsim-16.png", 
+    "128": "mcsim-128.png" }
+}
