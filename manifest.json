@@ -1,6 +1,6 @@
 {
-  "name": "WebMC",
-  "description": "Web Monte Carlo",
+  "name": "WebMD",
+  "description": "Web Molecular Dynamics",
   "version": "0.1",
   "app": {
     "background": {
